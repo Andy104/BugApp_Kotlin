@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BugApp</string>
+    <string name="ble_title">BLE</string>
+    <string name="uart_title">UART</string>
+    <string name="info_title">Info</string>
+    <string name="ble_fragment">Bluetooth Low Energy</string>
+    <string name="uart_fragment">UART Communication</string>
+    <string name="info_fragment">General Information</string>
+</resources>
